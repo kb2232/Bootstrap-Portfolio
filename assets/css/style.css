@@ -1,0 +1,79 @@
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+  float: left;
+}
+.right {
+  text-align: right;
+}
+.navbar-brand {
+  background-color:#4aaaa5;
+  font-family: 'Times New Roman', Times, serif;
+}
+.foot {
+  background-color:#4aaaa5;
+}
+.copyr {
+ background-color: #666666;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.topnav:hover {
+  background-color: red;
+}
+.nav {
+  padding: 10px;
+}
+.bigBar{
+  border: 1px solid #cccccc;
+  width: 100%;
+  padding: 25px;
+}
+.bodi {
+  background-color: #dddddd;
+}
+.white {
+  background-color: #ffffff;
+}
+.thumbnail {
+  position: relative;
+}
+.caption1 {
+  position: relative;
+  background-color: #4aaaa5;
+  top: -50px;
+  width: 45%;
+}
+.caption2 {
+  position: relative;
+  background-color: #4aaaa5;
+  top: -50px;
+  width: 45%;
+  right: 150px;
+}
+.teal {
+  color: #4aaaa5;
+}
+.box{
+  position: relative;
+  right: 150px;
+}
+footer {
+  margin: 150px 0px 0px 0px;
+}
+.setbodymargin {
+  border: 1px solid black;
+  margin: 100px 0px 0px 0px;
+}
+.setbodymargin2 {
+  border: 1px solid black;
+  margin: 100px 0px 0px 0px;
+  background-color: lightblue;
+}
+img {
+  float: left;
+}
